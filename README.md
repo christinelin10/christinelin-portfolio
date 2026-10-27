@@ -11,7 +11,15 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Christine Lin (she/her). 
+
+For four years, I taught high school math. Every day, I watched my students use digital learning tools, some that helped them understand and some they quietly ignored. I kept asking why. Why does one tool click while another falls flat?
+
+That question led me to Carnegie Mellon, where I’m now earning a Master of Information Systems Management. My background combines psychology and mathematics, so I approach design from two directions: understanding how people think, and measuring whether something actually works.
+
+I’m building technical skills in SQL, Python, and Tableau, and I’m especially interested in learning and development, edtech, product, and user research roles that put people first. My long-term goal is to help create adaptive learning technology that closes gaps for learners who have fallen behind.
+
+I’m seeking a Summer 2027 internship. I’d love to connect.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
