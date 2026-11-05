@@ -34,8 +34,8 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 Design Strategy Project to connect community members to existing community gardens in hopes to increase activity, encourage membership, and ease grant funding documentation. 
 
 ## Assignments: [Tableau Examples](tableau-examples)
-Visualizing Government Debt
-Visualizing the Coronavirus
+- Visualizing Government Debt
+- Visualizing the Coronavirus
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
