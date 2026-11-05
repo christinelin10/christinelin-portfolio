@@ -1,4 +1,4 @@
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://christinelin10.github.io/christinelin-portfolio/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # About Me
 Hello! My name is Christine Lin (she/her). 
@@ -9,7 +9,7 @@ That question led me to Carnegie Mellon University, where I’m now earning a Ma
 
 I’m building technical skills in SQL, Python, and Tableau, and I’m especially interested in learning and development, EdTech, product, and user research roles that put people first. My long-term goal is to help create adaptive learning technology that closes gaps for learners who have fallen behind.
 
-I’m seeking a Summer 2027 internship. I’d love to connect.
+I’d love to connect.
 
 # What I Hope to Learn
 All the things - obviously.  
