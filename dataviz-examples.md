@@ -5,12 +5,14 @@
 ## [Sproutable](https://sproutablecmu.vercel.app/)
 Design Strategy Project to connect community members to existing community gardens in hopes to increase activity, encourage membership, and ease grant funding documentation. 
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-Tableau Assignments
+## Assignment: [Tableau Examples](tableau-examples)
+Visualizing Government Debt
 
 Source: OECD, General government debt (% of GDP), data.oecd.org.
 
 Data file provided by C. Goranson, Telling Stories with Data
+
+Visualizing the Coronavirus
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
