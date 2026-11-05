@@ -7,7 +7,9 @@ Design Strategy Project to connect community members to existing community garde
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 Tableau Assignments
+
 Source: OECD, General government debt (% of GDP), data.oecd.org.
+
 Data file provided by C. Goranson, Telling Stories with Data
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
