@@ -1,13 +1,14 @@
 | [Home Page](https://christinelin10.github.io/christinelin-portfolio/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Data visualization examples
-_You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
 
 ## [Sproutable](https://sproutablecmu.vercel.app/)
 Design Strategy Project to connect community members to existing community gardens in hopes to increase activity, encourage membership, and ease grant funding documentation. 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+Tableau Assignments
+Source: OECD, General government debt (% of GDP), data.oecd.org.
+Data file provided by C. Goranson, Telling Stories with Data
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
