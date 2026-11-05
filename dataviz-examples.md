@@ -5,7 +5,7 @@
 ## [Sproutable](https://sproutablecmu.vercel.app/)
 Design Strategy Project to connect community members to existing community gardens in hopes to increase activity, encourage membership, and ease grant funding documentation. 
 
-## Assignment: [Tableau Examples](tableau-examples)
+## Assignments: [Tableau Examples](tableau-examples)
 ### Visualizing Government Debt
 
 Source: OECD, General government debt (% of GDP), data.oecd.org.
