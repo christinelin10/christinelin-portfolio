@@ -1,8 +1,9 @@
 | [Home Page](https://christinelin10.github.io/christinelin-portfolio/)| [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# Visualizing Government Debt
 
-## Debt-to-GDP Ratio by Country (Highlight Table)
+# Tableau Examples
+
+## Visualizing Government Debt: Debt-to-GDP Ratio by Country (Highlight Table)
 This highlight table shows general government debt as a percentage of GDP for OECD countries over time. 
 Countries are sorted from highest to lowest average debt-to-GDP ratio, and the color scale is centered at 100%: blue cells show years when a country’s debt was less than its GDP, and orange cells show years when debt exceeded GDP.
 
@@ -18,7 +19,7 @@ Countries are sorted from highest to lowest average debt-to-GDP ratio, and the c
 
 Source: OECD, General government debt (% of GDP), data.oecd.org.
 
-## Debt-to-GDP Ratio Increase, 2004 - 2013 (Line Graph)
+## Visualizing Government Debt: Debt-to-GDP Ratio Increase, 2004 - 2013 (Line Graph)
 
 This line graph shows countries whose Debt to GDP ratio increased past 100 between 2004 to 2013. 
 This time frame was chosen to highlight the 2008 financial housing crisis. 
@@ -34,7 +35,7 @@ Countries are labeled at the end with their abbreviations.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-# Visualizing the Coronavirus Using Tableau
+## Visualizing the Coronavirus Using Tableau
 
 <div class='tableauPlaceholder' id='viz1793913500016' style='position: relative'><noscript><a href='#'><img alt='Visualizing the Coronavirus using Tableau ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5P&#47;5PPRS2H9M&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;5PPRS2H9M' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5P&#47;5PPRS2H9M&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
