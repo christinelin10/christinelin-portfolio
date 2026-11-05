@@ -1,3 +1,5 @@
+| [Home Page](https://christinelin10.github.io/christinelin-portfolio/)| [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+
 # Visualizing Government Debt
 
 This highlight table shows general government debt as a percentage of GDP for OECD countries over time. 
