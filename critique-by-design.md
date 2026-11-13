@@ -43,7 +43,7 @@ This first draft 'sketch' is a scatterplot of Top Speed (mph) vs Horsepower with
 I showed my Step Three sketch (Top Speed vs Horsepower scatter plot) to two people without explaining it first. 
 Then I asked the following questions and received the following responses, in short. 
 
-Results: 
+### Results: 
 
 | Question | Interview 1 | Interview 2 |
 | |(First year MISM student and TSWD classmate)|(Second year MISM student and TSWD classmate)|
@@ -54,7 +54,7 @@ Results:
 | Who do you think is the intended audience for this? | People who enjoy cars | Same as Interview 1 |
 | Is there anything you would change or do differently? | The data seems very dry | I think the engine information may not be necessary unless this is specifically for someone who understands cars |
 
-Synthesis: 
+### Synthesis: 
 
 Both interviewees quickly recognized that the scatter plot is a comparison of top speed and horsepower, and both identified the audience as people who have a dedicated interest in cars. However, neither of them noticed the most important finding in the sketch: that the most powerful car, the Rimac C Two, has the lowest top speed of the eight. Both described the chart to me in general terms, which tells me that the main insight was not coming through on its own. If audience members need me to point out the story, then the design is not doing its job. 
 
@@ -62,7 +62,7 @@ The engine type coloring also did not help. The first interviewee did not unders
 
 Finally, the interviewees' answers suggested that the numbers felt abstract. One described the data as "very dry," and the other's takeaway was simply that the cars are "supposed to be very fast." Neither said what the numbers meant in practical or real world terms, which suggests that a top speed of 300mph or a horsepower metric is hard to conceptualize. The second interviewee also asked why only these eight cars were included, so I believe the next visualization needs to include the superlative of fastest cars again. 
 
-Design changes for final redesign:
+### Design changes for final redesign:
 - Remove engine type coloring; possibly use color to highlight the cars that matter
 - Make speed tangible
 - State in title that these are the eight fastest cars in production
