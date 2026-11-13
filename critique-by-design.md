@@ -1,20 +1,31 @@
 | [Home Page](https://christinelin10.github.io/christinelin-portfolio/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# Title
-Text here...
+# Critique by Design: 8 Fastest Cars in the World, 2026
+[MakeoverMonday](https://makeovermonday.vercel.app/)
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+This page documents my critique and redesign of a visualization of the world's fastest production hypercars as of 2026, from choosing the original chart through critique, sketching, user testing, and a final redesign in Tableau.
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+![Original visualization](original-data-viz.png)
+[Original Data Visualization](https://makeovermonday.vercel.app/dataset/8-fastest-cars-in-the-world-as-of-2026)
+
+I chose this data visualization because it is barely a visualization at all. It is essentially a table of information about the eight fastest cars in the world. The table is transparent, accurate, and easy to read, but it leaves the work of finding patterns to the audience. This is what I believed would make it a good candidate for a redesign. All of the information is there; however, there is nothing about the design that helps the audience see what is interesting about it. It also seemed most useful for people who are already interested in cars and actively looking for this information, but, and on the flip side, incredibly less engaging or enticing for anyone else. I wanted to see whether a redesign could make the data more visually appealing and draw in a wider audience. 
+
+The dataset covers eight production cars -- the fastest cars in the world as of January 2026. The dataset lists ten key features: car name, car manufacturer, country of origin, engine type, top speed in miles per hour (mph), top speed in kilometers per hour (km/h), horsepower, toque, price, and the number of units produced. The dataset also lists a few calculated columns, like price per horsepower and speed per horsepower. 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Using Stephen Few's Data Visualization Effectiveness Profile, my main observation was that there is little to no data visualization here. The original is essentially a table of information; however, coming from a quantitative background, this has some true strengths. The data is fully transparent, accurate, easy to read, and easy to understand. Every data point is visible, and nothing is hidden. This is why I rated its Completeness at a 9/10. I only docked 1 point because one of the calculated columns is not fully labeled. 
+
+Where the dataset fails is in turning the information into insight -- i.e. telling a story. Because it is a table, the reader has to compare numbers row by row to find any patters, and nothing in the design draws attention to what is interesting or surprising in the data. It is, as previously mentioned, not very visually engaging. This is why I rated it a 1/10 in Aesthetics. I would have given it a 0/10, but this was not an option. 
+
+The primary audience appears to be people who are already interested in cars and may be searching for the listed metrics. For them, I'm sure the table is fairly effective, since they are looking for this information, will take the time to read and compare manually, and deeply understand what the table is truly representing. However, for the average audience member, the table is not an effective design that draws anyone else in. 
+
+Based on this critique, I decided to focus my redesign on making the data more visually appealing and exciting, with the question of "fastest" at the center. 
 
 ## Step three: Sketch a solution
+
+
 
 ## Step four: Test the solution
 
