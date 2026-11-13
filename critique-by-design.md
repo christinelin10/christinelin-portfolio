@@ -35,6 +35,7 @@ Based on this critique, I decided to focus my redesign on making the data more v
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 This first draft 'sketch' is a scatterplot of Top Speed (mph) vs Horsepower with each car colored to represent the engine type. This sketch responds to the main weakness I found in my critique: the table did not tell a story. Plotting these tow columns against each other makes the relationship between speed and horsepower visible at a glance. It is interesting to note that the most powerful car, the Rimac C Two, has the lowest top speed making me think that it is the 'slowest.' This sketch suggested that the more interesting story in this data is the question and definition of what 'fast' really is, which became the starting point for my final rendition. 
 
 ## Step four: Test the solution
@@ -77,6 +78,7 @@ Design changes for final redesign:
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 ### What the redesign shows
 My final redesign turns the original table into a race. Each of the eight fastest production cars gets its own lane, and audience can drag a slider to set the length of the race, from 0 to 40 seconds. As the slider moves, each car travels the distance it would cover in that time. The result shows that "fastest" depends on how you measure it. 
