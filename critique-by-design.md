@@ -54,15 +54,55 @@ Results:
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Both interviewees quickly recognized that the scatter plot is a comparison of top speed and horsepower, and both identified the audience as people who have a dedicated interest in cars. However, neither of them noticed the most important finding in the sketch: that the most powerful car, the Rimac C Two, has the lowest top speed of the eight. Both described the chart to me in general terms, which tells me that the main insight was not coming through on its own. If audience members need me to point out the story, then the design is not doing its job. 
+
+The engine type coloring also did not help. The first interviewee did not understand why the dots were different colors, and the second suggested the engine information was unnecessary unless the audience already knows about cars. Since my critique of the original focused on reaching a wider audience other than car enthusiast, engine type was an unnecessary inclusion that added complexity without meaning. 
+
+Finally, the interviewees' answers suggested that the numbers felt abstract. One described the data as "very dry," and the other's takeaway was simply that the cars are "supposed to be very fast." Neither said what the numbers meant in practical or real world terms, which suggests that a top speed of 300mph or a horsepower metric is hard to conceptualize. The second interviewee also asked why only these eight cars were included, so I believe the next visualization needs to include the superlative of fastest cars again. 
+
+Design changes for final redesign:
+- Remove engine type coloring; possibly use color to highlight the cars that matter
+- Make speed tangible
+- State in title that these are the eight fastest cars in production
+- Tell story about definition of 'fast'
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<div class='tableauPlaceholder' id='viz1794545305447' style='position: relative'><noscript><a href='#'><img alt='Which of the world&#39;s 8 fastest cars is &quot;fastest&quot;? It depends on the race. Drag the slider to change the race length.The Rimac C Two wins short races. The Bugatti Chiron Super Sport 300+ takes over midway. The Hennessey Venom F5 only wins long races.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5J&#47;5J6FT87DF&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;5J6FT87DF' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5J&#47;5J6FT87DF&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1794545305447');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+### What the redesign shows
+My final redesign turns the original table into a race. Each of the eight fastest production cars gets its own lane, and audience can drag a slider to set the length of the race, from 0 to 40 seconds. As the slider moves, each car travels the distance it would cover in that time. The result shows that "fastest" depends on how you measure it. 
+
+The Rimac C Two, which has the lowest top speed of the eight, wins short races because it accelerates the quickest (0–100 km/h in 1.97 seconds). The Bugatti Chiron Super Sport 300+ takes the lead in the middle of the race. Lastly, the Hennessey Venom F5, the car with the top overall speed, only pulls ahead in races longer than about 38 seconds.
+
+### How I got here
+My critique, using Stephen Few's Data Visualization Effectiveness Profile, found that the original was essentially a table. It was accurate and easy to read, but it left all the work of finding patterns to the reader and mainly served people who were already interested in cars. The critique pushed me to look for a story hidden between the columns rather than simply charting top speed.
+
+My first sketch, a scatter plot of top speed against horsepower, revealed one of those hidden relationships: the most powerful car is the slowest. But user testing showed that the insight was not coming through. Neither interviewee noticed the Rimac's surprising lack of measurable long term top speed. Additionally, one was confused by the engine-type colors, and the other felt the engine information was unnecessary for a general audience. Both treated the numbers as abstract, and one asked why only these eight cars were included.
+
+Based on that feedback, I made four changes: 
+- I removed engine type from the color encoding and used color only to highlight the three cars that lead the race at some point.
+- I added a headline that states the main insight directly
+- I made speed tangible by showing distance traveled over time instead of abstract top-speed numbers
+- I stated in the title that these are the world's eight fastest production cars.
+
+### What I did differently
+The original asked readers to compare numbers in a table. My redesign asks a question ("which car is fastest?") and lets readers discover the answer by interacting with it. It also brings in the acceleration column, which the original table listed poorly (as some of the column title was cut off) but did nothing with, and which turned out to hold the most surprising part of the story.
+
+Because the dataset only includes top speed and 0–100 km/h time, the distances are estimates from a simplified model. It assumes each car keeps its 0–100 km/h acceleration until it reaches its respective top speed, then the model assumes that the car holds that speed indefinitely. I noted this on the visualization so readers do not mistake it for real-world performance. With more time and time-based performance data, I would love to build a more realistic race.
 
 ## References
-_List any references you used here._
+- Original data visualization: #MakeoverMonday, "8 Fastest Cars in the World as of 2026," https://makeovermonday.vercel.app/dataset/8-fastest-cars-in-the-world-as-of-2026
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to assist me in making the parameters, calculated fields, and adding the animation to the final sketch in Tableau. 
 
