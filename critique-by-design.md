@@ -45,7 +45,8 @@ Then I asked the following questions and received the following responses, in sh
 
 Results: 
 
-| Question | Interview 1 (First year MISM student and TSWD classmate) | Interview 2 (Second year MISM student and TSWD classmate)|
+| Question | Interview 1 | Interview 2 |
+| |(First year MISM student and TSWD classmate)|(Second year MISM student and TSWD classmate)|
 |----------|-------------|-------------|
 | Can you tell me what you think this is? | A graph about some cars' top speeds versus horsepower | Same as Interview 1 |
 | Can you describe to me what this is telling you? | Just about the top speed and horsepower of cars. | The cars are probably very expensive and are supposed to be very fast. |
