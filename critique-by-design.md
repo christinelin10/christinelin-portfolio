@@ -38,7 +38,7 @@ Based on this critique, I decided to focus my redesign on making the data more v
 
 This first draft 'sketch' is a scatterplot of Top Speed (mph) vs Horsepower with each car colored to represent the engine type. This sketch responds to the main weakness I found in my critique: the table did not tell a story. Plotting these tow columns against each other makes the relationship between speed and horsepower visible at a glance. It is interesting to note that the most powerful car, the Rimac C Two, has the lowest top speed making me think that it is the 'slowest.' This sketch suggested that the more interesting story in this data is the question and definition of what 'fast' really is, which became the starting point for my final rendition. 
 
-## Step four: Test the solution
+## Step Four: Test the Solution
 
 I showed my Step Three sketch (Top Speed vs Horsepower scatter plot) to two people without explaining it first. 
 Then I asked the following questions and received the following responses, in short. 
@@ -68,7 +68,7 @@ Finally, the interviewees' answers suggested that the numbers felt abstract. One
 - State in title that these are the eight fastest cars in production
 - Tell story about definition of 'fast'
 
-## Step five: build the solution
+## Step Five: Build the Solution
 
 <div class='tableauPlaceholder' id='viz1794545305447' style='position: relative'><noscript><a href='#'><img alt='Which of the world&#39;s 8 fastest cars is &quot;fastest&quot;? It depends on the race. Drag the slider to change the race length.The Rimac C Two wins short races. The Bugatti Chiron Super Sport 300+ takes over midway. The Hennessey Venom F5 only wins long races.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5J&#47;5J6FT87DF&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;5J6FT87DF' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5J&#47;5J6FT87DF&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -106,6 +106,6 @@ Because the dataset only includes top speed and 0–100 km/h time, the distances
 - Original data visualization: #MakeoverMonday, "8 Fastest Cars in the World as of 2026," https://makeovermonday.vercel.app/dataset/8-fastest-cars-in-the-world-as-of-2026
 
 
-## AI acknowledgements
+## AI Acknowledgements
 I used AI to assist me in making the parameters, calculated fields, and adding the animation to the final sketch in Tableau. 
 
