@@ -32,9 +32,79 @@ I can do this by asking school administrators how they screen for reading and ma
 
 
 ### Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<div class='tableauPlaceholder' id='viz1795052277020' style='position: relative'><noscript><a href='#'><img alt='Math scores of 8th gradersThe top held steady. The bottom fell.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart1b&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finalproj_chart1b&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart1b&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1795052277020');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+Line graph of math scores for the 10th and 90th percentile 13-year-olds from 1978 to 2025. 
+
+<div class='tableauPlaceholder' id='viz1795052313841' style='position: relative'><noscript><a href='#'><img alt='By fourth grade, the gap is already growing. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart2&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finalproj_chart2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart2&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1795052313841');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+Line graph of math and reading scores of 4th graders in 2013 and 2024, showcasing the beginning of the growing gap. 
+
+<div class='tableauPlaceholder' id='viz1795052420533' style='position: relative'><noscript><a href='#'><img alt='In middle school, struggling students still fall the furthest. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart3&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finalproj_chart3&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart3&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1795052420533');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+Line graph of math and reading scores of 8th graders in 2013 and 2024, showcasing an even greater gap. 
+
+<div class='tableauPlaceholder' id='viz1795052478078' style='position: relative'><noscript><a href='#'><img alt='The gap still doesn&#39;t end during senior year. Measured on students who made it to senior year. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart4&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finalproj_chart4&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart4&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1795052478078');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+Line graph of math and reading scores of 12th graders in 2013 and 2024, showcasing the current gap. Notice, though, that the gap is smaller than previously, which lends me to believe that this is because some of the more struggling students dropped out. 
+
+<div class='tableauPlaceholder' id='viz1795052557107' style='position: relative'><noscript><a href='#'><img alt='The students at the bottom are the ones most likely to leave. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart5&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finalproj_chart5&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart5&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1795052557107');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+Bar graph of the percentage of students that dropped out by their senior year based on the percentile of their 9th grade math scores. 
+
+<div class='tableauPlaceholder' id='viz1795052631459' style='position: relative'><noscript><a href='#'><img alt='Percent of students staying in school ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart5b&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finalproj_chart5b&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalproj_chart5b&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1795052631459');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+Line graph showing that less students are dropping out as the years continue --> More students are staying in school now than ever before, so many students are persevering. 
+
 
 ## The data
 
@@ -50,9 +120,7 @@ For the dropout section, I use NCES Digest of Education Statistics tables: dropo
 | NCES Digest Table 219.70 | https://nces.ed.gov/programs/digest/2024menu_tables.asp | Status dropout rate: percentage of 16- to 24-year-olds not in school and without a high school credential, 1960 - 2022 |
 
 ## Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to build my final project as an interactive scrolling story in Shorthand, with data visualizations created in Tableau, published to Tableau Public, and embedded in the story. The scrolling format suits a story that moves from the world, to one school, to students' path through school, and Tableau will let readers hover over the charts to see exact scores for each year and percentile. 
 
 ### References
 - Valant, J., Zerbino, N., and Mills, E. (2026, October 16). "A snapshot of America's schools: Trends and global comparisons." Brookings Institution. https://www.brookings.edu/articles/a-snapshot-of-americas-schools-trends-and-global-comparisons/
