@@ -5,7 +5,7 @@
 
 ## Outline
 ### Project Summary
-We often hear that American students lag behind compared to the rest of the developed nations. The trust is stronger than this and hidden in a more granular subsection of the American population. In reading, America's strongest 15-year-olds score higher than their peers in almost every other developed country. America's weakest students, however, sit far below them, and the distance between the two groups is one of the widest in any developed nation. The United States doesn't have one education story. It has two, but the average hides them both. 
+We often hear that American students lag behind compared to the rest of the developed nations. The truth is stronger than this and hidden in a more granular subsection of the American population. In reading, America's strongest 15-year-olds score higher than their peers in almost every other developed country. America's weakest students, however, sit far below them, and the distance between the two groups is one of the widest in any developed nation. The United States doesn't have one education story. It has two, but the average hides them both. 
 
 Prior to entering graduate school, I was a public school teacher, and I was able to see that gap up close. For four years, I taught math at Springfield High School in Springfield, Illinois, where only about 27% of students were considered "proficient" and more than 40% came from low-income homes. Every fall, students arrived in my ninth-grade classes far below grade level. Some were so far behind that it seemed almost impossible for them to keep up, let alone catch up. By the time they reached me, the gap already had years of momentum built up. 
 
@@ -103,7 +103,7 @@ Bar graph of the percentage of students that dropped out by their senior year ba
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Line graph showing that less students are dropping out as the years continue --> More students are staying in school now than ever before, so many students are persevering. 
+Line graph showing that fewer students are dropping out as the years continue --> More students are staying in school now than ever before, so many students are persevering. 
 
 
 ## The data
