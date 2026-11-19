@@ -37,17 +37,17 @@ I can do this by asking school administrators how they screen for reading and ma
 Text here...
 
 ## The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+My main source is the Nation's Report Card (NAEP) from the National Center for Education Statistics. From the NAEP Data Explorer, I downloaded national percentile scores and achievement levels in reading and math for grades 4, 8, and 12, plus the long-term trend results for ages 9, 13, and 17. I measure the gap as the 90th percentile score minus the 10th, and compare how it changes within each grade, since each grade and test uses its own scale. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+For the dropout section, I use NCES Digest of Education Statistics tables: dropout rates by ninth-grade math score from the High School Longitudinal Study of 2009 and the national status dropout rate. I present these as context, not as proof that low scores cause students to leave school. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| NAEP Data Explorer (main assessment) | https://www.nationsreportcard.gov/ndecore/xplore/NDE | National reading and math scores for grades 4, 8, and 12 at the 10th, 25th, 50th, 75th, and 90th percentiles, plus achievement levels, 2013 - 2024 |
+| NAEP Long Term Trend | https://www.nationsreportcard.gov/ltt/ | National reading and math average and percentile scores for ages 9, 13, and 17, 1971 - 2025 |
+| NCES Digest Tables 219.62a-c | https://nces.ed.gov/programs/digest/d16/tables/dt16_219.62a.asp | High School Longitudinal Study of 2009: share of 2009 ninth graders who dropped out by 2012, by ninth-grade math score, and the reasons dropout students gave for leaving |
+| NCES Digest Table 219.70 | https://nces.ed.gov/programs/digest/2024menu_tables.asp | Status dropout rate: percentage of 16- to 24-year-olds not in school and without a high school credential, 1960 - 2022 |
 
 ## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
