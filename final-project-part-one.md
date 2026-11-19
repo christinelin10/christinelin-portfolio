@@ -120,7 +120,7 @@ For the dropout section, I use NCES Digest of Education Statistics tables: dropo
 | NCES Digest Table 219.70 | https://nces.ed.gov/programs/digest/2024menu_tables.asp | Status dropout rate: percentage of 16- to 24-year-olds not in school and without a high school credential, 1960 - 2022 |
 
 ## Method and medium
-I plan to build my final project as an interactive scrolling story in Shorthand, with data visualizations created in Tableau, published to Tableau Public, and embedded in the story. The scrolling format suits a story that moves from the world, to one school, to students' path through school, and Tableau will let readers hover over the charts to see exact scores for each year and percentile. 
+I plan to build my final project as an interactive scrolling story in Shorthand, with data visualizations created in Tableau, published to Tableau Public, and embedded in the story. The scrolling format suits a story that moves through the students' paths through school, and Tableau will let readers hover over the charts to see exact scores for each year and percentile. 
 
 ### References
 - Valant, J., Zerbino, N., and Mills, E. (2026, October 16). "A snapshot of America's schools: Trends and global comparisons." Brookings Institution. https://www.brookings.edu/articles/a-snapshot-of-americas-schools-trends-and-global-comparisons/
