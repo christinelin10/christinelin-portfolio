@@ -41,7 +41,7 @@ Design Strategy Project to connect community members to existing community garde
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+Since 2013, the strongest students in reading and math have held steady while the weakest have fallen further and further behind, and the gap between them has grown in every grade from fourth grade through senior year. 
+- [Part I](final-project-part-one)
+- [Part II](final-project-part-two)
+- [Part III](final-project-part-three)
