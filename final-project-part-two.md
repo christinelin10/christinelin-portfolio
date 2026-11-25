@@ -84,6 +84,7 @@ Visualization: Percentage of 16- to 24-year-olds in school or graduated, 1970–
 > I interviewed three CMU graduate students. My notes combine their answers rather than separating them by person, so the table below lists the responses I recorded for each question across all three interviews.
 
 | Questions | Responses |
+|------|------------------|
 | 1. What was the most interesting part?	| The story itself: the narrative of how the gap develops through school. |
 | 2. What was the most confusing part? What made it hard to follow?	| The math vs. reading graphs: having both subjects in the same charts made them hard to read. |
 | 3. What was the most surprising thing you learned? |	The difference between high performers and low performers. |
